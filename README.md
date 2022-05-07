@@ -43,8 +43,8 @@ stress test it, but I am putting it off in case this test proves to be destructi
 
 I have provided some mesh files for a 3D printable enclosure. It requires some
 M3 heat inserts (like [these](https://www.amazon.com/initeq-M3-0-5-Threaded-Inserts-Printing/dp/B073W2898C/))
-and M3 screws to assemble. The STLs can be found in the [enclosure](enclosure/) 
-directory.
+and 18-23mm long M3 screws (like [these](https://www.amazon.com/M3-0-5-Stainless-Socket-Screws-Coverage/dp/B09B3992F4/)) 
+to assemble. The STLs can be found in the [enclosure](enclosure/) directory.
 
 ![HV Amplifier](/docs/HVAmplifier.jpg?raw=true "HV Amplifier")
 
