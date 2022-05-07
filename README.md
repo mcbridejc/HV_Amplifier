@@ -42,7 +42,7 @@ stress test it, but I am putting it off in case this test proves to be destructi
 ## Enclosure 
 
 I have provided some mesh files for a 3D printable enclosure. It requires some
-M3 heat inserts (like [these](https://www.amazon.com/initeq-M3-0-5-Threaded-Inserts-Printing/dp/B073W2898C/)
+M3 heat inserts (like [these](https://www.amazon.com/initeq-M3-0-5-Threaded-Inserts-Printing/dp/B073W2898C/))
 and M3 screws to assemble. The STLs can be found in the [enclosure](enclosure/) 
 directory.
 
